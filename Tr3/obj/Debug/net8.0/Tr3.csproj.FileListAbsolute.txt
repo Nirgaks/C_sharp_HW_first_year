@@ -1,0 +1,14 @@
+C:\Users\97250\source\repos\Tr3\Tr3\bin\Debug\net8.0\Tr3.exe
+C:\Users\97250\source\repos\Tr3\Tr3\bin\Debug\net8.0\Tr3.deps.json
+C:\Users\97250\source\repos\Tr3\Tr3\bin\Debug\net8.0\Tr3.runtimeconfig.json
+C:\Users\97250\source\repos\Tr3\Tr3\bin\Debug\net8.0\Tr3.dll
+C:\Users\97250\source\repos\Tr3\Tr3\bin\Debug\net8.0\Tr3.pdb
+C:\Users\97250\source\repos\Tr3\Tr3\obj\Debug\net8.0\Tr3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\source\repos\Tr3\Tr3\obj\Debug\net8.0\Tr3.AssemblyInfoInputs.cache
+C:\Users\97250\source\repos\Tr3\Tr3\obj\Debug\net8.0\Tr3.AssemblyInfo.cs
+C:\Users\97250\source\repos\Tr3\Tr3\obj\Debug\net8.0\Tr3.csproj.CoreCompileInputs.cache
+C:\Users\97250\source\repos\Tr3\Tr3\obj\Debug\net8.0\Tr3.dll
+C:\Users\97250\source\repos\Tr3\Tr3\obj\Debug\net8.0\refint\Tr3.dll
+C:\Users\97250\source\repos\Tr3\Tr3\obj\Debug\net8.0\Tr3.pdb
+C:\Users\97250\source\repos\Tr3\Tr3\obj\Debug\net8.0\Tr3.genruntimeconfig.cache
+C:\Users\97250\source\repos\Tr3\Tr3\obj\Debug\net8.0\ref\Tr3.dll
